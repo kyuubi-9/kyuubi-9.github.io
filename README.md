@@ -3,7 +3,9 @@
 https://pages.github.com/
 
 ## commands to run
-1. git clone
+1. git clone https://github.com/kyuubi-9/kyuubi-9.github.io.git
+2. cd kyuubi-9.github.io
+3. run requirements.txt
 
 ## technologies used
 1. html
